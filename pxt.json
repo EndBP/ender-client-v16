@@ -1,0 +1,29 @@
+{
+    "name": "Ender Client V1.6",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.5.65",
+        "tag": "v1.5.65",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/f1e65934b07d4c4cc74e4b2c122c2d1adb85d049",
+        "target": "1.7.21",
+        "pxt": "6.4.35",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
