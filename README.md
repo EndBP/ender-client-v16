@@ -1,24 +1,36 @@
+# This is a Revamped version of the
 
-> Open this page at [https://endbp.github.io/ender-client-v16/](https://endbp.github.io/ender-client-v16/)
+# Ender-Client V1.6
+# Minecraft education edition client. (Made with EDU Client)
 
-## Use as Extension
+# What you can do with my code
+You're allowed to modify some things to your comfort. Allowed to make a different client but you MUST Credit my Github (ENDBP) or credit (Minecraft-education-ender-client) If used in a video, please credit me or my discord "nbp."
 
-This repository can be added as an **extension** in MakeCode.
+# What you can't do with my code
+This is fully free so don't make any profit off of it. This means websites like linkvertise or boostellar isn't allowed. You're not allowed to steal or claim any of this is yours.
 
-* open [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/endbp/ender-client-v16** and import
+Join the Discord
+https://discord.gg/aDsHpB5v49 The 2nd ever public minecraft education edition client.
 
-## Edit this project
+# How to Use them?
 
-To edit this repository in MakeCode.
+It's Really Simple.
 
-* open [https://minecraft.makecode.com/](https://minecraft.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/endbp/ender-client-v16** and click import
+* Copy the Makecode link
 
-#### Metadata (used for search, rendering)
+* Go to the code builder
 
-* for PXT/minecraft
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+* Click import and paste the URL
+
+If did correctly, you should have Ender Client.
+
+Needed
+You need Code builder Enabled You need Operator to run it
+
+Link
+https://makecode.com/_Av6PrFK7CHXx Screenshot 2023-10-29 9 28 21 PM
+
+What is Ender-Client?
+Ender Client is a fully-free minecraft education edition client that can make your school experience easier. This has over 50 working commands (53 in total) and you can use them to troll your friends. Not only that but you can use the building commands and build yourself a nice looking world. I would use this if I were you.
+
+Most likely Ender Client will not receive anymore updates after 1.6.
