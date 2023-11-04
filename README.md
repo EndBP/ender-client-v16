@@ -27,10 +27,11 @@ If did correctly, you should have Ender Client.
 # Needed
 You need Code builder Enabled You need Operator to run it
 
-# Link
-https://makecode.com/_Av6PrFK7CHXx
 
-What is Ender-Client?
+* Link
+# https://makecode.com/_Av6PrFK7CHXx
+
+# What is Ender-Client?
 Ender Client is a fully-free minecraft education edition client that can make your school experience easier. This has over 50 working commands (53 in total) and you can use them to troll your friends. Not only that but you can use the building commands and build yourself a nice looking world. I would use this if I were you.
 
 > Most likely Ender Client will not receive anymore updates after 1.6.
