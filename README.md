@@ -2,6 +2,7 @@
 
 # Ender-Client V1.6
 # Minecraft education edition client. (Made with EDU Client)
+# Subscribe to Grogus for the base (https://youtu.be/zdSVSvl6g9c?si=GLe-jkKdbatBPuBW)
 
 # What you can do with my code
 You're allowed to modify some things to your comfort. Allowed to make a different client but you MUST Credit my Github (ENDBP) or credit (Minecraft-education-ender-client) If used in a video, please credit me or my discord "nbp."
